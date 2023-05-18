@@ -1,8 +1,6 @@
 # Calculadora-C-
 Esta é uma calculadora simples desenvolvida em C#, que permite realizar a operação de adição. O programa foi implementado utilizando a linguagem C# e a plataforma .NET. A calculadora é uma ótima ferramenta para aprendizado e prática de programação em C# e pode ser utilizada como base para a criação de projetos mais complexos.
-
 using System;
-
 namespace CalculadoraC
 {
     class Calculadora
